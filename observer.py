@@ -1,4 +1,7 @@
-""" observer pattern """
+"""
+# observer pattern #
+observer pattern is a 'behavioral' pattern
+"""
 
 class NewsAgency():
     """ subject class """

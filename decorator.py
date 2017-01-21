@@ -1,4 +1,7 @@
-""" decorator pattern """
+"""
+# decorator pattern #
+decorator pattern is a 'structural' pattern
+"""
 
 import datetime
 
